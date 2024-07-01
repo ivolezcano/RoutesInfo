@@ -1,0 +1,31 @@
+cam_cod;cam_nombre;comprobante;fecha;cli_id;razon_social;cli_dir;total;cod_zon;razon_socialchof;horario;reparto;saldocli;cod_ven
+176;Mauricio Medrano;FAA00010001234;31/10/2023;1234;ABC Comercial S.A. de C.V.;Calle Amapola 123;41383,33594;417;MAURICIO MEDRANO;10 A 21 HS  LUN-SAB;14439;0;57
+176;Mauricio Medrano;FAA00010001235;31/10/2023;1235;Innovate Tech Solutions, Inc.;Avenida Roble 456;11725,41504;417;MAURICIO MEDRANO;10 a 19hs ;14439;0;57
+176;Mauricio Medrano;FAA00010001236;31/10/2023;1236;Distribuciones L�pez Hermanos S.L.;Calle del Bosque 789;54880,16016;418;MAURICIO MEDRANO;10 a 14 y 17 a 20 hs ;14439;0;65
+176;Mauricio Medrano;FAA00010001237;31/10/2023;1237;Global Foods Corporation;Avenida Primavera 234;43860,3125;407;MAURICIO MEDRANO;10 a 14 y 17 a 20 hs ;14439;0;65
+176;Mauricio Medrano;FAA00010001238;31/10/2023;1238;Construcciones y Proyectos Integrados S.A.;Calle Lago 567;31674,37695;428;MAURICIO MEDRANO;10 a 14- 17 a 20 hs ;14439;0;65
+176;Mauricio Medrano;FAA00010001239;31/10/2023;1239;BlueWave Investments Ltd.;Avenida Monta�a 890;60310,26953;155;MAURICIO MEDRANO;24 hs. OP;14439;0;71
+176;Mauricio Medrano;FAA00010001240;31/10/2023;1240;Servicios Log�sticos Iberoamericanos, S.A.;Calle Jard�n 123;30795,12695;408;MAURICIO MEDRANO;10 A 19 HS;14439;0;57
+176;Mauricio Medrano;FAA00010001241;31/10/2023;1241;Golden Harvest Farms, LLC;Avenida Sol 456;20175,28125;417;MAURICIO MEDRANO;10 a 14 y 17 a 20 hs ;14439;0;65
+176;Mauricio Medrano;FAA00010001242;31/10/2023;1242;Consultores Estrat�gicos de Marketing, S.C.;Calle Playa 789;25073,61914;415;MAURICIO MEDRANO;8:00 a 20:00 hs;14439;0;77
+176;Mauricio Medrano;FAA00010001243;31/10/2023;1243;Elegant Designs, Ltd.;Avenida Mar 234;56872,15625;415;MAURICIO MEDRANO;8.30 A 13 Y 17 A 21 HS;14439;0;65
+176;Mauricio Medrano;FAA00010001244;31/10/2023;1244;International Trade Solutions Group;Calle R�o 567;11244,18457;417;MAURICIO MEDRANO;8.30 a 14.30 hs.;14439;0;80
+176;Mauricio Medrano;FAA00010001245;31/10/2023;1245;Proyectos Arquitect�nicos Avanzados S.A.;Avenida Aurora 890;40526,53125;419;MAURICIO MEDRANO;11 A 20 HS;14439;0;80
+176;Mauricio Medrano;FAA00010001246;31/10/2023;1246;Sunflower Pharmaceuticals, Inc.;Calle Ocaso 123;24074,69531;416;MAURICIO MEDRANO;9 a 17 hs ;14439;0;56
+176;Mauricio Medrano;FAA00010001247;31/10/2023;1247;Soluciones de Energ�a Renovable, S.L.;Avenida Estrella 456;9202,639648;415;MAURICIO MEDRANO;09 a 20hs;14439;0;56
+176;Mauricio Medrano;FAA00010001248;31/10/2023;1248;Worldwide Shipping & Logistics, Inc.;Calle Libertad 789;67371,8125;432;MAURICIO MEDRANO;;14439;0;39
+176;Mauricio Medrano;FAA00010001249;31/10/2023;1249;MasterTech Informatics, Ltd.;Avenida Celestial 234;35856,0625;410;MAURICIO MEDRANO;11 a 14.30 -16.30 a 20;14439;0;56
+176;Mauricio Medrano;FAA00010001250;31/10/2023;1250;FoodKing Distributors, LLC;Calle Cielo 567;33924,52734;410;MAURICIO MEDRANO;11 a 14.30 -16.30 a 20;14439;0;65
+176;Mauricio Medrano;FAA00010001251;31/10/2023;1251;Desarrollo de Software Innovador, S.C.;Avenida Oeste 890;14797,11328;417;MAURICIO MEDRANO;10 A 21 HS  LUN-SAB;14439;0;57
+176;Mauricio Medrano;FAB00010001234;31/10/2023;1252;Urban Builders & Associates, Inc.;Calle Este 123;3902,900146;416;MAURICIO MEDRANO;7 a 12:30 y 15 a 19 hs ;14439;0;39
+176;Mauricio Medrano;FAB00010001235;31/10/2023;1253;Global Innovations Group, LLC;Avenida Occidental 456;6312,310547;416;MAURICIO MEDRANO;7 a 12:30 y 15 a 19 hs ;14439;0;39
+176;Mauricio Medrano;FAB00010001236;31/10/2023;1254;Distribuidora de Electrodom�sticos, S.A. de C.V.;Calle Oriental 789;38171,46875;417;MAURICIO MEDRANO;10 a 14 hs / 17 a 20 hs ;14439;0;65
+176;Mauricio Medrano;FAB00010001237;31/10/2023;1255;Alpha Omega Consulting Services, Inc.;Avenida Sue�os 234;16300,10938;416;MAURICIO MEDRANO;9 a 20 hs;14439;0;72
+176;Mauricio Medrano;FAB00010001238;31/10/2023;1256;Ocean Breeze Resorts, Ltd.;Calle Realidad 567;22354,80078;410;MAURICIO MEDRANO;8  a 16;14439;0;80
+176;Mauricio Medrano;PEX00010001234;31/10/2023;1257;Consultora Legal Internacional, S.C.;Avenida Fantas�a 890;37591,59375;415;MAURICIO MEDRANO;11:30 a 15:30 / 17:30 a 23 hs;14439;0;65
+176;Mauricio Medrano;PEX00010001235;31/10/2023;1258;Excelente Materiales de Construcci�n, S.L.;Calle Aventura 123;57885,96875;415;MAURICIO MEDRANO;11:30 a 15:30 / 17:30 a 23 hs;14439;0;65
+176;Mauricio Medrano;PEX00010001236;31/10/2023;1259;Premier Financial Strategies, Inc.;Avenida Exploraci�n 456;22039,76953;417;MAURICIO MEDRANO;8:30 a 14 hs ;14439;0;65
+176;Mauricio Medrano;PEX00010001237;31/10/2023;1260;Ingenier�a y Desarrollo Industrial, S.A.;Calle Maravilla 789;103250,1094;417;MAURICIO MEDRANO;8:30 a 14 hs ;14439;0;56
+176;Mauricio Medrano;PEX00010001238;31/10/2023;1261;HealthVista Pharmaceuticals, Inc.;Avenida Magia 234;10959,36328;417;MAURICIO MEDRANO;8:30 a 14 hs ;14439;0;36
+176;Mauricio Medrano;PEX00010001239;31/10/2023;1262;Ambientech Soluciones Medioambientales, S.L.;Calle Imaginaci�n 567;17047,5918;416;MAURICIO MEDRANO;10 a 19 hs ;14439;0;36
+
